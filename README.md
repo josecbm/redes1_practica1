@@ -102,6 +102,13 @@ Ver configuraciones
 ![topologia](https://user-images.githubusercontent.com/8570475/90991123-2052a980-e564-11ea-80dc-699d9296223d.png)
 
 
+![vm](https://user-images.githubusercontent.com/8570475/90991260-ffd71f00-e564-11ea-9912-b05e4fbb4155.png)
+
+
+![ping_ma1_ma2](https://user-images.githubusercontent.com/8570475/90991276-12e9ef00-e565-11ea-89ef-e3e0b044e3de.png)
+
+
+
 ### Pruebas y configuraciones
 
 ### Glosario
