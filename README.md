@@ -19,7 +19,7 @@ Para ver la direccion ip
 
 Para agregar ip mascara de subred gateway
 
-> ip 192.168.17.30 255.255.255.0 192.168.17.254
+> ip 192.168.11.30 255.255.255.0 192.168.11.254
 
 guardar
 
@@ -33,7 +33,7 @@ Para ver la direccion ip
 
 Para agregar ip mascara de subred gateway
 
-> ip 192.168.17.30 255.255.255.0 192.168.17.254
+> ip 192.168.13.30 255.255.255.0 192.168.13.254
 
 Para guardar
 
@@ -47,7 +47,7 @@ Para ver la direccion ip
 
 Para agregar ip mascara de subred gateway
 
-> ip 192.168.17.30 255.255.255.0 192.168.17.254
+> ip 192.168.11.30 255.255.255.0 192.168.11.254
 
 Para guardar
 
@@ -73,7 +73,7 @@ wr
 
 > interface FastEthernet0/0
 
-> ip address 192.168.17.1 255.255.255.0
+> ip address 192.168.11.1 255.255.255.0
 
 > no sh
 
@@ -81,7 +81,7 @@ wr
 
 > interface FastEthernet0/1
 
-> ip address 192.168.19.1 255.255.255.0
+> ip address 192.168.13.1 255.255.255.0
 
 > no sh
 
